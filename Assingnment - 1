@@ -27,6 +27,3 @@ while True:
         print(f"Chatbot: My favorite color is {favorite_color}. What's yours?")
     else:
         print("Chatbot: I'm not sure how to respond to that. Feel free to ask something else or type 'bye' to exit.")
-
-
-This chatbot responds to greetings, inquires about its well-being, shares random facts, talks about its favorite color, and allows the user to exit. Feel free to add more features or modify the responses as per your preferences!
